@@ -1,2 +1,2 @@
 # UIDT
-seminarski rad iz Uvoda u interaktivno dokazivanje teorema
+Seminarski rad iz Uvoda u interaktivno dokazivanje teorema.
